@@ -140,7 +140,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "softlockpicking"
+name = "softlockpicking-simulation"
 version = "0.1.0"
 dependencies = [
  "rand",

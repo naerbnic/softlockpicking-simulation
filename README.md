@@ -42,4 +42,5 @@ is currently configured to run 1,000,000,000 trials, as in the video.
 ## Results
 
 The max ones I achieved with this program is 102. This program took about 444 seconds,
-or 7 minutes, 24 seconds. The output from the run is in the `test_output.txt` file.
+or 7 minutes, 24 seconds on my Mac Book Pro M3 Max with 36 GB RAM (although the RAM
+should not matter). The output from the run is in the `test_output.txt` file.
